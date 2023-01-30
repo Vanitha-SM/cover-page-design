@@ -132,7 +132,8 @@ cover.html code
 ~~~
 
 ## Output:
-![cvoutput](/cvoutput.png)
+![cvoutput](https://user-images.githubusercontent.com/119557985/215395929-4bab0536-1886-46b9-8bdc-30efd7485006.jpg)
+
 
 ## Result:
 Thus a website to display the cover page design of a book was successfully created.
